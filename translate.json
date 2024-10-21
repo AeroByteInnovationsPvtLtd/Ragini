@@ -1,0 +1,104 @@
+{
+  "loading":{
+    "en":"Loading...",
+    "ar":"تحميل..."
+    
+  },
+   "indian":{     
+       "en":"INDIAN ZAYKA",     
+        "ar": "زيكا الهندية"
+  },
+  "home":{
+     "en":"Home",
+     "ar":"بيت"
+  },
+  "About":{
+    "en":"About",
+    "ar":"عن"
+ },
+ "Service":{
+  "en":"Service",
+  "ar":"خدمة"
+},
+"Menu":{
+  "en":"Menu",
+  "ar":"قائمة طعام"
+},
+"Pages":{
+  "en":"Pages",
+  "ar":"صفحات"
+},
+"Booking":{
+  "en":"Booking",
+  "ar":"الحجز"
+},
+"Our Team":{
+  "en":"Our Team",
+  "ar":"فريقنا"
+},
+"Testimonial":{
+  "en":"Testimonial",
+  "ar":"شهادة"
+},
+"contact":{
+  "en":"Contact",
+  "ar":"اتصال"
+},
+"book":{
+  "en":"Book A Table",
+  "ar":"احجز طاولة"
+},
+"table":{
+  "en":"حجز الطاولة هنا",
+  "ar":"حجز الطاولة هنا"
+},
+"name":{
+  "en":"Name:",
+  "ar":"اسم:"
+},
+"email":{
+  "en":"Email:",
+  "ar":"بريد إلكتروني:"
+},
+"phone":{
+  "en":"Phone:",
+  "ar":"هاتف:"
+},
+"date":{
+  "en":"Date:",
+  "ar":"تاريخ:"
+},
+"time":{
+  "en":"Time:",
+  "ar":"وقت:"
+},
+"number":{
+  "en":"Number of People:",
+  "ar":"عدد الأشخاص:"
+},
+"confire":{
+  "en":"Confirm Booking",
+  "ar":"تأكيد الحجز"
+},
+"enjoy":{
+  "en":"Enjoy Our",
+  "ar": "استمتع لدينا"
+},
+"indulge":{
+  "en":"Indulge in a culinary journey with our flavorful dishes, expertly crafted using the finest ingredients. Each bite is a celebration of authentic Indian flavors, perfect for satisfying your cravings and delighting your taste buds. Join us for a memorable dining experience!",
+  "ar":"انغمس في رحلة طهي مع أطباقنا اللذيذة المحضرة بخبرة باستخدام أجود المكونات. كل قضمة هي احتفال بالنكهات الهندية الأصيلة، وهي مثالية لإشباع رغباتك وإسعاد ذوقك. انضم إلينا لتجربة طعام لا تنسى!"
+},
+"bookatable":{
+  "en":"Book A Table",
+  "ar": "احجز طاولة"
+},
+"master1":{
+  "en":"Master Chefs",
+  "ar":"ماستر الطهاة"
+},
+"p1":{
+  "en":"Master chefs combine culinary expertise, creativity, and leadership to craft exceptional dishes. They innovate menus, mentor staff, ensure quality, and enhance dining experiences, shaping the identity and success of their restaurants.",
+  "ar":"يجمع الطهاة الرئيسيون بين الخبرة الطهوية والإبداع والقيادة لصياغة أطباق استثنائية. إنهم يبتكرون قوائم الطعام، ويوجهون الموظفين، ويضمنون الجودة، ويعززون تجارب تناول الطعام، ويشكلون هوية مطاعمهم ونجاحها."
+}
+
+}
