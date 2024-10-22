@@ -16,6 +16,7 @@ hr.style.transform=`rotate(${hRotation}deg)`;
 min.style.transform=`rotate(${mRotation}deg)`;
 sec.style.transform=`rotate(${sRotation}deg)`;
 // hr.style.transform=`rotate(${hRotation}deg)`;
+// git config --global user.name "John Doe"
 
 
 }
